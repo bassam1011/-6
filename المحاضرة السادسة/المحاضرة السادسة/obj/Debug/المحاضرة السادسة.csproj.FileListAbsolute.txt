@@ -1,0 +1,17 @@
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\bin\Debug\المحاضرة السادسة.exe.config
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\bin\Debug\المحاضرة السادسة.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\bin\Debug\المحاضرة السادسة.pdb
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة السادسة.csproj.AssemblyReference.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة السادسة.csproj.SuggestedBindingRedirects.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة_السادسة.Form1.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة_السادسة.Properties.Resources.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة السادسة.csproj.GenerateResource.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة السادسة.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة السادسة.exe
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة السادسة.pdb
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة_السادسة.Form2.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة_السادسة.Form3.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة_السادسة.Form4.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة_السادسة.Form5.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة_السادسة.Form6.resources
+C:\Users\User1\Desktop\برمجة مرئية\المحاضرة السادسة\المحاضرة السادسة\obj\Debug\المحاضرة_السادسة.Form7.resources
